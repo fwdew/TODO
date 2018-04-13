@@ -1,6 +1,3 @@
-1.Create galmod repository on git.
-2.Add HolKan to repos.
-3.Add CleanSolution, PasswordMaker to repos.
 4.Write DAO.
 5.Update code with newest code rules.
 6.Update Actions delegates.
