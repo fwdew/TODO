@@ -1,6 +1,4 @@
 4.Write DAO.
-5.Update code with newest code rules.
-6.Update Actions delegates.
 7.Update code with lock objects.
 8.Update code with flashDisc identificator instead of ip/name PC identificator.
 9.Make English language by default.
