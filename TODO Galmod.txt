@@ -1,9 +1,4 @@
-1.Create galmod repository on git.
-2.Add HolKan to repos.
-3.Add CleanSolution, PasswordMaker to repos.
 4.Write DAO.
-5.Update code with newest code rules.
-6.Update Actions delegates.
 7.Update code with lock objects.
 8.Update code with flashDisc id instead of ip/name PC id.
 9.Make English language by default.
