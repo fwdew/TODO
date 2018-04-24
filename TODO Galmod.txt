@@ -5,7 +5,7 @@
 5.Update code with newest code rules.
 6.Update Actions delegates.
 7.Update code with lock objects.
-8.Update code with flashDisc identificator instead of ip/name PC identificator.
+8.Update code with flashDisc id instead of ip/name PC id.
 9.Make English language by default.
 10.Add Ukranian language option.
 11.Add GetAllOnlineUsers possibility.
@@ -14,5 +14,5 @@
 14.Add discription of HolKan. Update ReadMe file on git.
 
 P.S.
-1.Switch flashDisc like total identificator of user (chat, rdp, browser).
-2.Create terminal entrapoint system.
+1.Switch flashDisc like total id of user (chat, rdp, browser).
+2.Create terminal entrypoint system.
