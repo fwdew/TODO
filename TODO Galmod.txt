@@ -2,7 +2,7 @@
 7.Update code with lock objects.
 8.Update code with flashDisc id instead of ip/name PC id.
 9.Make English language by default.
-10.Add Ukranian language option.
+10.Add Ukranian language option (set to default).
 11.Add GetAllOnlineUsers possibility.
 12.Remove sending pool's messages depands at offline users.
 13.Create / Remove file when program is running.
